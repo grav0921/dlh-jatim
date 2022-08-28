@@ -1,4 +1,13 @@
+/**
+* Template Name: MyBiz - v4.3.0
+* Template URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -904,11 +913,13 @@ section {
   box-sizing: border-box;
   box-shadow:  0px 2px 12px rgba(0, 0, 0, 0.08);
   height: 100%;
+  border: 1pt solid #e8e0e0;
 }
 .services .card-tujuan h5{
   text-align: center;
   font-weight: 600;
   margin-top: 0.5rem;
+  color: var(--light-green);
 }
 .services .card-tujuan ul{
   text-align: center;
